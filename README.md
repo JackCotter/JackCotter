@@ -1,9 +1,9 @@
 # Hi, Welcome to my profile!:fearful::nerd_face:
 
- - Check out [Xenia-1](https://github.com/UVicRocketry/Xenia1-Flight-Computer) - Second Place at Launch Canada! :rocket::2nd_place_medal: :astonished::flushed:
+ - Check out UVic Rocketry's [Xenia-1](https://github.com/UVicRocketry/Xenia1-Flight-Computer) - Second Place at Launch Canada! :rocket::2nd_place_medal: :astonished::flushed:
 
 
- - Check out [Snake JS game](https://github.com/JackCotter/FrontEndProject2-Snakeio) :snake: :snake: with Socket.io Server
+ - Check out [JS Drawing Game](https://github.com/JackCotter/FrontEndProject2-Snakeio) :pencil2: :pencil2: with Socket.io Server
  
 
  ---
