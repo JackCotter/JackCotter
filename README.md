@@ -1,21 +1,23 @@
-# Hi, Welcome to my profile!:fearful::nerd_face:
+# Hi, Welcome to my profile! :fearful::nerd_face:
 
- - Check out UVic Rocketry's [Xenia-1](https://github.com/UVicRocketry/Xenia1-Flight-Computer) - Second Place at Launch Canada! :rocket::2nd_place_medal: :astonished::flushed:
+Fourth year Software Engineer at UVic and Member of UVic Rocketry
+  
+Check out the following projects!
 
+ - UVic Rocketry's [Ground-Support System](https://github.com/UVicRocketry/Ground-Support) 💻 📻
 
- - Check out [JS Drawing Game](https://github.com/JackCotter/FrontEndProject2-Snakeio) :pencil2: :pencil2: with Socket.io Server
- 
+ - UVic Rocketry's [Xenia-1](https://github.com/UVicRocketry/Xenia1-Flight-Computer) - Second Place at Launch Canada! :rocket::2nd_place_medal: :astonished::flushed:
+
 
  ---
  
- ### :toolbox: :wrench:Toolbox:
+ ### Proficiencies :wrench: :toolbox:
  <div>
- <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40">
- <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
- <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="40" height="40">
+ <img src = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40">
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" height="40">
  <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">
+ <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="40" height="40">
  <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40">
- <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40">
  </div>
 
 ---
