@@ -1,8 +1,10 @@
-# Hi, Welcome to my profile! :fearful::nerd_face:
+# Hi, Welcome to my profile!
 
-Fourth year Software Engineer at UVic and Member of UVic Rocketry
+Fifth year Software Engineer at UVic
   
 Check out the following projects!
+
+ - [Music Collaboration Platform](https://github.com/JackCotter/music)
 
  - UVic Rocketry's [Ground-Support System](https://github.com/UVicRocketry/Ground-Support) 💻 📻
 
